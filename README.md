@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajesh7rj
+- 👋 Hi, I’m Rajesh Janyani.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript.
 
