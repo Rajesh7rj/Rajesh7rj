@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rajesh Janyani.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning ReactJS.
+- skills :- html, css, js, bootstrap, mongodb, mysql
 
 <!---
 Rajesh7rj/Rajesh7rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
