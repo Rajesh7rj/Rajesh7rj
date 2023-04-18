@@ -1,7 +1,18 @@
 - 👋 Hi, I’m Rajesh Janyani.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning ReactJS.
-- skills :- html, css, js, bootstrap, mongodb, mysql
+- 👀 I’m Fronten developer.
+- Skills :- HTML, CSS, Javascript, ReactJS, Bootstrap, tailwindcss.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 Rajesh7rj/Rajesh7rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
