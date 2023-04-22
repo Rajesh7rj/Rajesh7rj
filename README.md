@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajesh7rj.github.io/My-portofolio-site/](https://rajesh7rj.github.io/My-portofolio-site/)
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **rajeshjanyani7@gmail.com**
 
