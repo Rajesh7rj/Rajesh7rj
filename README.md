@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajesh7rj.github.io/My-portofolio-site/](https://rajesh7rj.github.io/My-portofolio-site/)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React.JS, TypeScript, MUI, Bootstrap, Redux Toolkit**
 
 - 📫 How to reach me **rajeshjanyani7@gmail.com**
 
