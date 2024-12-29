@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Janyani</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://rajesh7rj.github.io/My-portofolio-site/](https://rajesh7rj.github.io/My-portofolio-site/)
-
 - 💬 Ask me about **HTML, CSS, Javascript, React.JS, NEXT.JS, TypeScript, MUI, Bootstrap, Redux Toolkit, Radix-ui**
 
 - 📫 How to reach me **rajeshjanyani7@gmail.com**
