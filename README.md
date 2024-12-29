@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajesh Janyani</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **ReactJS.**
-
 - 👨‍💻 All of my projects are available at [https://rajesh7rj.github.io/My-portofolio-site/](https://rajesh7rj.github.io/My-portofolio-site/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React.JS, TypeScript, MUI, Bootstrap, Redux Toolkit**
+- 💬 Ask me about **HTML, CSS, Javascript, React.JS, NEXT.JS, TypeScript, MUI, Bootstrap, Redux Toolkit, Radix-ui**
 
 - 📫 How to reach me **rajeshjanyani7@gmail.com**
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajesh-janyani-rj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-janyani-rj7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajesh-janyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-janyani-rj7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeshjanyani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeshjanyani7" height="30" width="40" /></a>
 </p>
 
