@@ -1,19 +1,69 @@
-<h1 align="center">Hi 👋, I'm Rajesh Janyani</h1>
-<h3 align="center">A Passionate Software Developer from India.</h3>
+### 👋 Hi there, I'm Rajesh Janyani
 
-- 📫 How to reach me **rajeshjanyani7@gmail.com**
+🎯 Software Developer | React & Next.js Specialist | SaaS Engineer | Sprint Lead | DevFundaz Creator  
+🚀 Helping teams build scalable, maintainable web products with clean code & user-first thinking  
+📍 Based in Gujarat, India  
 
-- 📄 Know about my experiences [https://rajesh7rj.github.io/My-portofolio-site/](https://rajesh7rj.github.io/My-portofolio-site/)
+---
 
+### 🔥 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajesh-janyani) 
+I believe a good developer doesn’t just ship code — they build products, lead teams, and mentor others to grow.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+- 💼 3+ years building HRMS, CMS, eCommerce & SaaS platforms  
+- 🔄 Migrated projects to TypeScript → reduced runtime bugs by 40%  
+- ⚙️ Built reusable UI systems → boosted speed by 25%  
+- 🚀 Delivered 20+ modules with clean, scalable frontend architecture  
+- 🧑‍🏫 Former **Teacher (4+ yrs)** → skilled at simplifying complex concepts  
+- 🧠 Mentored 4+ devs, led 7+ sprints, and enabled faster team delivery  
+- 🧩 Built full-stack **SaaS dashboards** with auth, role-based access, and analytics  
+- 🗣️ Collaborated cross-functionally with QA, BAs, UX, and product owners  
+- 📈 Focused on building tech with business value and long-term maintainability  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh7rj&show_icons=true&locale=en&layout=compact" alt="rajesh7rj" /></p>
+### 🧰 Tech Stack
+
+**Frontend:**  
+React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand
+
+**UI Libraries:**  
+Tailwind CSS, Material UI, Radix UI, Bootstrap
+
+**Dev Practices:**  
+Agile/Scrum, Sprint Planning, Mentorship, Peer Reviews
+
+**Deployment & Tools:**  
+Git, GitHub, Vercel, Netlify, Render, REST APIs, GraphQL, CI/CD
+
+---
+
+### 💼 Leadership & Soft Skills
+
+- 🧑‍🏫 **Mentorship:** Trained junior devs to become confident contributors  
+- 🤝 **Team Collaboration:** Strong communicator across dev, QA, design, product  
+- 🧠 **Problem-Solving:** Debugged live issues, reduced prod bugs by 45%  
+- ⏱️ **Sprint Leadership:** Led grooming, planning & retros with clarity  
+- 🌱 **Adaptability:** Transitioned tech stacks, tools, and teams with ease  
+- 🧭 **Ownership Mindset:** I don’t just build — I take full accountability  
+
+---
+
+### 📚 Blogs & Portfolio
+
+- 🧾 [Medium Articles](https://medium.com/@rajesh-janyani) — dev tips, best practices, team insights  
+- 🌐 [Portfolio](https://portofolio-2-0-62nq.vercel.app/) — featured projects, experience, and UI demos
+
+---
+
+### ✨ Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-janyani)  
+- 💌 Email: rajeshjanyani7@gmail.com  
+- 🖥 GitHub: [Rajesh7rj](https://github.com/Rajesh7rj)
+
+---
+
+> “Shared knowledge scales careers. That’s why I build, mentor, and share through DevFundaz.”
 
 
