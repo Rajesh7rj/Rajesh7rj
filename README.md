@@ -10,7 +10,7 @@
 
 I believe a good developer doesn’t just ship code — they build products, lead teams, and mentor others to grow.
 
-- 💼 3+ years building HRMS, CMS, eCommerce & SaaS platforms  
+- 💼 4+ years building HRMS, CMS, eCommerce & SaaS platforms  
 - 🔄 Migrated projects to TypeScript → reduced runtime bugs by 40%  
 - ⚙️ Built reusable UI systems → boosted speed by 25%  
 - 🚀 Delivered 20+ modules with clean, scalable frontend architecture  
@@ -52,7 +52,7 @@ Git, GitHub, Vercel, Netlify, Render, REST APIs, GraphQL, CI/CD
 ### 📚 Blogs & Portfolio
 
 - 🧾 [Medium Articles](https://medium.com/@rajesh-janyani) — dev tips, best practices, team insights  
-- 🌐 [Portfolio](https://portofolio-2-0-62nq.vercel.app/) — featured projects, experience, and UI demos
+- 🌐 [Portfolio](https://rajeshjanyani.vercel.app/) — featured projects, experience, and UI demos
 
 ---
 
