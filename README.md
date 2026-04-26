@@ -1,69 +1,77 @@
 ### 👋 Hi there, I'm Rajesh Janyani
 
-🎯 Software Developer | React & Next.js Specialist | SaaS Engineer | Sprint Lead | DevFundaz Creator  
-🚀 Helping teams build scalable, maintainable web products with clean code & user-first thinking  
-📍 Based in Gujarat, India  
+🎯 Senior Software Engineer | Frontend Architect | Full-Stack Developer  
+🚀 Building scalable, high-performance web applications with clean architecture & real-world impact  
+📍 Gujarat, India  
 
 ---
 
 ### 🔥 About Me
 
-I believe a good developer doesn’t just ship code — they build products, lead teams, and mentor others to grow.
+I focus on building production-grade systems — not just features — with an emphasis on scalability, performance, and maintainability.
 
-- 💼 4+ years building HRMS, CMS, eCommerce & SaaS platforms  
-- 🔄 Migrated projects to TypeScript → reduced runtime bugs by 40%  
-- ⚙️ Built reusable UI systems → boosted speed by 25%  
-- 🚀 Delivered 20+ modules with clean, scalable frontend architecture  
-- 🧑‍🏫 Former **Teacher (4+ yrs)** → skilled at simplifying complex concepts  
-- 🧠 Mentored 4+ devs, led 7+ sprints, and enabled faster team delivery  
-- 🧩 Built full-stack **SaaS dashboards** with auth, role-based access, and analytics  
-- 🗣️ Collaborated cross-functionally with QA, BAs, UX, and product owners  
-- 📈 Focused on building tech with business value and long-term maintainability  
+- 💼 5+ years building HRMS, CMS, eCommerce & SaaS platforms  
+- 🧠 Designed scalable frontend architectures using React & Next.js  
+- ⚙️ Built reusable component systems → improved development speed by **25%**  
+- 🔄 Led TypeScript migrations → reduced runtime errors by **40%**  
+- 🐞 Reduced production bugs by **45%** through proactive debugging & code reviews  
+- 🔧 Developed and integrated scalable APIs using Node.js, REST & GraphQL  
+- 👥 Mentored 10+ developers and improved team productivity & code quality  
+- 🚀 Led Agile sprints ensuring consistent and high-velocity delivery  
+- 🧩 Built full-stack SaaS platforms with RBAC, workflows, and analytics dashboards  
+- 🤖 Leveraging modern AI-assisted workflows to enhance development efficiency  
 
 ---
 
 ### 🧰 Tech Stack
 
-**Frontend:**  
-React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand
+**Frontend Engineering**  
+React • Next.js • TypeScript • Tailwind CSS • Modern UI Libraries  
 
-**UI Libraries:**  
-Tailwind CSS, Material UI, Radix UI, Bootstrap
+**Architecture & State Management**  
+Redux • Zustand • Component-Driven Architecture • Performance Optimization  
 
-**Dev Practices:**  
-Agile/Scrum, Sprint Planning, Mentorship, Peer Reviews
+**Backend & APIs**  
+Node.js • Express • REST API Design • GraphQL  
 
-**Deployment & Tools:**  
-Git, GitHub, Vercel, Netlify, Render, REST APIs, GraphQL, CI/CD
+**DevOps & Delivery**  
+Git • CI/CD • Vercel • Netlify • Render  
+
+**Modern Development**  
+AI-assisted workflows using ChatGPT & Claude  
 
 ---
 
-### 💼 Leadership & Soft Skills
+### ⚙️ Engineering Practices
 
-- 🧑‍🏫 **Mentorship:** Trained junior devs to become confident contributors  
-- 🤝 **Team Collaboration:** Strong communicator across dev, QA, design, product  
-- 🧠 **Problem-Solving:** Debugged live issues, reduced prod bugs by 45%  
-- ⏱️ **Sprint Leadership:** Led grooming, planning & retros with clarity  
-- 🌱 **Adaptability:** Transitioned tech stacks, tools, and teams with ease  
-- 🧭 **Ownership Mindset:** I don’t just build — I take full accountability  
+Agile / Scrum • Sprint Planning & Execution • Code Reviews  
+Clean Code • Scalable Systems • Cross-functional Collaboration  
+
+---
+
+### 💼 Leadership & Impact
+
+- 🧑‍🏫 Mentored developers to improve code quality and ownership  
+- 🤝 Collaborated across engineering, QA, product, and design teams  
+- 🧠 Strong problem-solving mindset with focus on system-level thinking  
+- ⏱️ Led sprint planning, execution, and delivery cycles  
+- 🧭 Ownership-driven approach — from development to deployment  
 
 ---
 
 ### 📚 Blogs & Portfolio
 
-- 🧾 [Medium Articles](https://medium.com/@rajesh-janyani) — dev tips, best practices, team insights  
-- 🌐 [Portfolio](https://rajeshjanyani.vercel.app/) — featured projects, experience, and UI demos
+- 🧾 [Medium](https://medium.com/@rajesh-janyani) — dev insights, best practices, and team learnings  
+- 🌐 [Portfolio](https://rajeshjanyani.vercel.app/) — projects, architecture, and UI work  
 
 ---
 
 ### ✨ Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-janyani)  
-- 💌 Email: rajeshjanyani7@gmail.com  
-- 🖥 GitHub: [Rajesh7rj](https://github.com/Rajesh7rj)
+- 💌 rajeshjanyani7@gmail.com  
+- 🖥 [GitHub](https://github.com/Rajesh7rj)
 
 ---
 
-> “Shared knowledge scales careers. That’s why I build, mentor, and share through DevFundaz.”
-
-
+> “I build systems that scale, mentor developers to grow, and focus on delivering real impact.”
