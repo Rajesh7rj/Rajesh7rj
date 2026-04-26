@@ -10,7 +10,7 @@ Gujarat, India
 
 I focus on building production-grade systems with an emphasis on scalability, performance, and maintainability.
 
-- 5+ years building HRMS, CMS, eCommerce, and SaaS platforms  
+- 4+ years building HRMS, CMS, eCommerce, and SaaS platforms  
 - Designed scalable frontend architectures using React and Next.js  
 - Built reusable component systems, improving development speed by 25%  
 - Led TypeScript migrations, reducing runtime errors by 40%  
